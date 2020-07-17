@@ -1,3 +1,6 @@
+# DEPRECATED
+# https://github.com/soundtrails/stxViewer/
+
 # `.stx` (soundtrail) Web Viewer
 
 
