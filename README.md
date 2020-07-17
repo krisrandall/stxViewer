@@ -1,4 +1,4 @@
-# DEPRECATED
+# DEPRECATED, INSTEAD USE : 
 # https://github.com/soundtrails/stxViewer/
 
 # `.stx` (soundtrail) Web Viewer
